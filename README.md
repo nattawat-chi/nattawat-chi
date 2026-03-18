@@ -1,12 +1,22 @@
 # Hi, I'm Nattawat 👋  
 
 
-
 I am a **Full Stack Developer** with a strong interest in building scalable, user-friendly web applications.  
 I am skilled at using **AI tools** to improve code quality, optimize productivity, and explore innovative solutions.  
 Passionate about **continuous learning**, I actively research and follow emerging technologies, particularly in **AI and modern web development**.  
 
 ---
+### ☕ [Multi-Tenant Coffee POS (SaaS)](https://github.com/nattawat-chi/pos-saas)
+
+A comprehensive SaaS Point of Sale system designed for coffee shop franchises with tenant isolation.
+
+* **Multi-tenant Architecture:** Securely separated data environments for different shop owners.
+* **Features:** Interactive POS interface, Role-Based Access (Super Admin & Admin), order tracking, and dynamic menu management.
+* **Built with:** Next.js, TypeScript, TailwindCSS, Prisma, NextAuth, and Neon Database (PostgreSQL).
+
+👉 [Repository](https://github.com/nattawat-chi/pos-saas) | 🌐 [Live Demo](https://pos-saas-nine.vercel.app/)
+
+
 ## 🌐 Live Projects  
 - 🛍️ Catalog App → [allure-mart-iota.vercel.app](https://allure-mart-iota.vercel.app/)
   
