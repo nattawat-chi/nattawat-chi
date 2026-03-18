@@ -60,7 +60,6 @@ A product catalog system for showcasing items online.
 ## 📫 Contact Information  
 - Email: **nattawatchi2140@gmail.com**  
 - LinkedIn: [linkedin.com/in/nattawat-chitaphonphan](https://www.linkedin.com/in/nattawat-chitaphonphan/)  
-- Portfolio: [-](https://your-portfolio.com)  
 
 ---
 ⭐️ From [nattawat-chi](https://github.com/nattawat-chi)
