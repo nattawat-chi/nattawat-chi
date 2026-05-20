@@ -21,13 +21,12 @@ A full-stack, browser-based video editing platform built with a focus on real-ti
 
 ## 💻 Other Highlighted Projects
 
-### 🖥️ RigVault
-A specialized full-stack web application designed for PC hardware enthusiasts to showcase their rig specifications, benchmark scores, and track maintenance logs.
-- **Stack:** Next.js 15, Prisma, Zustand, Tailwind CSS
+### 🏪 [POS SaaS](https://github.com/nattawat-chi/pos-saas)
+A multi-tenant Point of Sale (POS) Software-as-a-Service application built for modern business operations, featuring inventory tracking, real-time sales analytics, and multi-store management capabilities.
+- **Stack:** Full-Stack Web Technologies
 
 ### 🛒 Allure Mart
 A comprehensive Point of Sale (POS) system built to handle inventory, transactions, and daily store operations smoothly.
-- **Stack:** Full-Stack Web Technologies
 
 ### 🔑 License Management System
 A secure internal tool developed for managing software licenses, tracking expirations, and user allocations.
@@ -67,4 +66,11 @@ A secure internal tool developed for managing software licenses, tracking expira
 - 🎮 In my free time, you can find me min-maxing my stash in *Escape from Tarkov* or optimizing builds in *Path of Exile*.
 - 📈 Strongly believe in long-term global stock diversification (VT all the way!).
 
-📫 **Let's Connect!** Feel free to reach out to me for collaboration, opportunities, or just to talk about code and PC building!
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nattawat-chitaphonphan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nattawat-chi)
+
+Feel free to reach out to me for collaboration, opportunities, or just to talk about code and PC building!
