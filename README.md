@@ -1,65 +1,70 @@
-# Hi, I'm Nattawat 👋  
+# Hi there, I'm Nattawat! 👋 
 
+🚀 **Full-Stack Web Developer** | 📍 Phitsanulok, Thailand
 
-I am a **Full Stack Developer** with a strong interest in building scalable, user-friendly web applications.  
-I am skilled at using **AI tools** to improve code quality, optimize productivity, and explore innovative solutions.  
-Passionate about **continuous learning**, I actively research and follow emerging technologies, particularly in **AI and modern web development**.  
+I'm a self-taught Full-Stack Developer who successfully transitioned from a background in Social Sciences into the world of software engineering. I have a deep passion for building high-performance web applications, optimizing complex systems, and tinkering with high-end PC hardware (currently pushing frames on a Ryzen 9 9900X + RTX 5070 Ti setup! 🎮). 
 
----
-### ☕ [Multi-Tenant Coffee POS (SaaS)](https://github.com/nattawat-chi/pos-saas)
-
-A comprehensive SaaS Point of Sale system designed for coffee shop franchises with tenant isolation.
-
-* **Multi-tenant Architecture:** Securely separated data environments for different shop owners.
-* **Features:** Interactive POS interface, Role-Based Access (Super Admin & Admin), order tracking, and dynamic menu management.
-* **Built with:** Next.js, TypeScript, TailwindCSS, Prisma, NextAuth, and Neon Database (PostgreSQL).
-
-👉 [Repository](https://github.com/nattawat-chi/pos-saas) | 🌐 [Live Demo](https://pos-saas-nine.vercel.app/)
-
-
-## 🌐 Live Projects  
-- 🛍️ Catalog App → [allure-mart-iota.vercel.app](https://allure-mart-iota.vercel.app/)
-  
-## 🛠️ Core Skills & Technologies  
-- **Frontend**: React, Next.js, TypeScript, TailwindCSS  
-- **Backend**: Node.js, Express, RESTful APIs  
-- **Database**: PostgreSQL, MongoDB , MySQL
-- **Tools & Practices**: Git, GitHub, Agile workflow, Test-driven development  
-- **AI for Development**: Applying AI-assisted coding and problem-solving to accelerate software delivery  
+Whether it's writing robust backend logic in Rust or crafting smooth, interactive UIs in React, I love solving hard problems and learning new technologies.
 
 ---
 
-## 💼 Featured Projects  
+## 🌟 Featured Project
 
-### 📦 [Expense Tracker](https://github.com/nattawat-chi/new-expense-tracker)  
-A responsive web application to manage personal expenses.  
-- CRUD operations for expenses  
-- Data visualization with charts  
-- Built with **Next.js + TypeScript + TailwindCSS**  
-
-👉 [Repository](https://github.com/nattawat-chi/new-expense-tracker)  
-
----
-
-### 🛍️ [Catalog App](https://github.com/nattawat-chi/catalog-nextjs)  
-A product catalog system for showcasing items online.  
-- Clean and modular component design  
-- Built with **Next.js + TypeScript**  
-- Deploy-ready on Vercel  
-
-👉 [Repository](https://github.com/nattawat-chi/catalog-nextjs)  
+### 🎬 [CloudCut](https://github.com/nattawat-chi/cloud-cut) — Collaborative SaaS Video Editor
+A full-stack, browser-based video editing platform built with a focus on real-time collaboration and high performance.
+- **Frontend:** React 19, TypeScript (Strict), Tailwind CSS v4, Zustand, shadcn/ui
+- **Backend:** Rust, PostgreSQL (SQLx), Redis, MinIO (S3-compatible)
+- **Infrastructure & Tools:** Docker, FFmpeg (Video Processing), Pusher (Real-time WebSockets), GitHub Actions (CI/CD)
+- **Highlights:** Implemented DOM-based timeline rendering, optimistic UI updates, cursor pagination, and real-time remote operation syncing.
 
 ---
 
-## 📊 GitHub Highlights  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nattawat-chi&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nattawat-chi&layout=compact&theme=default)  
+## 💻 Other Highlighted Projects
+
+### 🖥️ RigVault
+A specialized full-stack web application designed for PC hardware enthusiasts to showcase their rig specifications, benchmark scores, and track maintenance logs.
+- **Stack:** Next.js 15, Prisma, Zustand, Tailwind CSS
+
+### 🛒 Allure Mart
+A comprehensive Point of Sale (POS) system built to handle inventory, transactions, and daily store operations smoothly.
+- **Stack:** Full-Stack Web Technologies
+
+### 🔑 License Management System
+A secure internal tool developed for managing software licenses, tracking expirations, and user allocations.
 
 ---
 
-## 📫 Contact Information  
-- Email: **nattawatchi2140@gmail.com**  
-- LinkedIn: [linkedin.com/in/nattawat-chitaphonphan](https://www.linkedin.com/in/nattawat-chitaphonphan/)  
+## 🛠️ Tech Stack & Tools
+
+**Languages:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-4A3223?style=flat-square)
+
+**Backend & Database:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Tools & DevOps:**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
-⭐️ From [nattawat-chi](https://github.com/nattawat-chi)
+
+## ⚡ Beyond the Code
+- ☕ Powered by specialty coffee (AeroPress + Timemore C2 enthusiast).
+- 🎮 In my free time, you can find me min-maxing my stash in *Escape from Tarkov* or optimizing builds in *Path of Exile*.
+- 📈 Strongly believe in long-term global stock diversification (VT all the way!).
+
+📫 **Let's Connect!** Feel free to reach out to me for collaboration, opportunities, or just to talk about code and PC building!
