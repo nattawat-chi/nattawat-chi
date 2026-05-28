@@ -8,17 +8,6 @@ Whether it's writing robust backend logic in Rust or crafting smooth, interactiv
 
 ---
 
-## 🌟 Featured Project
-
-### 🎬 [CloudCut](https://github.com/nattawat-chi/cloud-cut) — Collaborative SaaS Video Editor
-A full-stack, browser-based video editing platform built with a focus on real-time collaboration and high performance.
-- **Frontend:** React 19, TypeScript (Strict), Tailwind CSS v4, Zustand, shadcn/ui
-- **Backend:** Rust, PostgreSQL (SQLx), Redis, MinIO (S3-compatible)
-- **Infrastructure & Tools:** Docker, FFmpeg (Video Processing), Pusher (Real-time WebSockets), GitHub Actions (CI/CD)
-- **Highlights:** Implemented DOM-based timeline rendering, optimistic UI updates, cursor pagination, and real-time remote operation syncing.
-
----
-
 ## 💻 Other Highlighted Projects
 
 ### 🏪 [POS SaaS](https://github.com/nattawat-chi/pos-saas)
