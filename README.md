@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Web Developer** | 📍 Phitsanulok, Thailand
 
-I'm a self-taught Full-Stack Developer who successfully transitioned from a background in Social Sciences into the world of software engineering. I have a deep passion for building high-performance web applications, optimizing complex systems, and tinkering with high-end PC hardware (currently pushing frames on a Ryzen 9 9900X + RTX 5070 Ti setup! 🎮). 
+I'm a self-taught Full-Stack Developer who successfully transitioned from a background in Social Sciences into the world of software engineering. I have a deep passion for building high-performance web applications. 
 
 Whether it's writing robust backend logic in Rust or crafting smooth, interactive UIs in React, I love solving hard problems and learning new technologies.
 
